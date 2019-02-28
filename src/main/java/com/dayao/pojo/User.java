@@ -10,7 +10,7 @@ public class User {
     private String name;
     private int age;
     private String sex;
-
+    private String addr;
     public String getName() {
         return name;
     }
