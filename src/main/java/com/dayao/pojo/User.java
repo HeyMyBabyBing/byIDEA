@@ -9,5 +9,6 @@ package com.dayao.pojo;
 public class User {
     private String name;
     private int age;
+    privte String sex;
 
 }
